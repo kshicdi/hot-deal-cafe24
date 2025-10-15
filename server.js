@@ -209,4 +209,5 @@ app.get('/', (req, res) => {
 app.listen(config.PORT, () => {
   console.log(`🚀 서버가 http://localhost:${config.PORT} 에서 실행 중입니다.`);
   console.log(`📝 설정 파일을 확인하고 Mall ID를 입력하세요: config.js`);
+  console.log(`🔧 Redirect URI: ${config.REDIRECT_URI}`);
 });
