@@ -8,7 +8,7 @@ module.exports = {
   // 서버 설정
   PORT: 3000,
   BASE_URL: 'http://localhost:3000',
-  REDIRECT_URI: 'http://localhost:3000/callback',
+  REDIRECT_URI: 'https://hot-deal-cafe243.vercel.app/callback',
   
   // Cafe24 API 엔드포인트
   CAFE24_API_BASE: 'https://smartg9001.cafe24api.com/api/v2',
