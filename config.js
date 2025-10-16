@@ -1,8 +1,8 @@
 // Cafe24 API 설정
 module.exports = {
-  // Cafe24 API 키 정보 (2025-10-15 16:26 생성)
-  CLIENT_ID: 'NC3PPr0TEhPsf5ZleEV4vM',
-  CLIENT_SECRET: 'FcPoLtBbIR8tgu0GshJxCD',
+  // Cafe24 API 키 정보 (2025-10-16 14:11 생성 - 새 앱)
+  CLIENT_ID: 'n753hAheNSVPfdIQovFqiA',
+  CLIENT_SECRET: 'u7jAgmwDO1pvCAaCP4Sn9B',
   MALL_ID: 'smartg9001', // 쇼핑몰 ID
   
   // 서버 설정
